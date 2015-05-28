@@ -23,3 +23,5 @@ For manual control, these lines (for example) tell the myo band that Pandora (we
     controller.Add(responder)
 ```
 The myocontroller.lua handles all these so that you can add as many responders in as few lines of code and they all work at the same time.
+
+(not sure how many people are interested in this - please let me know on @jimgale)
